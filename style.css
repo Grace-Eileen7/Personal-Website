@@ -142,10 +142,10 @@ a {
     text-align: center;
 }
 
-.profile-image {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
+.profile-image img {
+    width: 195px;
+    height: 195px;
+    border-radius: 45%;
     background: #990011;
     margin: 0 auto;
     display: flex;
@@ -153,6 +153,8 @@ a {
     justify-content: center;
     font-size: 64px;
     color: white;
+    border: 4px solid #990011;
+
 }
 
 /* Skills Section */
