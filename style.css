@@ -1,0 +1,13 @@
+.hero-section {
+    background-color: #1C1208;
+    /* light gray */
+    padding: 40px;
+    text-align: center;
+}
+
+.hero-section h1,
+.hero-section p {
+    color: #EFE1A7;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
